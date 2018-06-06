@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]( Brotus/logo_-ohio-state-university-buckeyes-brutus-buckeye.png ) and ![Image]( Brotus/logo_-ohio-state-university-buckeyes-brutus-buckeye.png )
+[Link](logo_-ohio-state-university-buckeyes-brutus-buckeye.png?raw=true) and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
