@@ -506,9 +506,7 @@ textarea {
   display: none !important; }
 
 .grid-container {
-  padding-right: 0.625rem;
-  padding-left: 0.625rem;
-  max-width: 75rem;
+  max-width: 100%;
   margin: 0 auto; }
   @media print, screen and (min-width: 40em) {
     .grid-container {
